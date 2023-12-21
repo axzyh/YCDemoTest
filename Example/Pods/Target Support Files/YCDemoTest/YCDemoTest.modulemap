@@ -1,0 +1,6 @@
+framework module YCDemoTest {
+  umbrella header "YCDemoTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
